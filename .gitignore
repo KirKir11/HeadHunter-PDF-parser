@@ -1,0 +1,11 @@
+# Mac/OSX
+.DS_Store
+
+__pycache__/
+
+# Editors
+.idea/
+
+# Flask stuff:
+instance/
+.webassets-cache
